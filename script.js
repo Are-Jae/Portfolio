@@ -1,18 +1,27 @@
-/*var bioText = document.getElementById ("#text-block"); /*I want to have this load after user clicks "Click Here", trigger event? but which event?*/
+/*let bioButton= "profile";
+let profImg= "clicked"
+;
 
-/*generateBtn.addEventListener ("click", function() { /*have button & eventListener but not sure of what to do next, do I need button since I'm using href in html?*/ 
+ document.getElementById("profile").addEventListener("click", function show_image()){
+    if (bioButton = "clicked" ) {   img.src="assets/dialogue box ss.JPG"
+ }};
+    /*else{
+        don't display (cannot recall how to use js logic for this)
+    };
 
-/*var textImg = bioText();
-} )
 
-if ( textImg= bioText ) {
-    display /*what function should I use?
-};*/
-
-let img = document.getElementById("#text-block");
-
-img.src="assets/dialogue box ss.JPG";
+/*img.src="assets/dialogue box ss.JPG";
 
 img.addEventListener("click", function() {
     console.log("clicked");
-  })document.body.appendChild(img);
+  });document.body.appendChild(img);*/
+
+ /* <img src="assets/pfpdemo.jpg" onclick="window.open(this.src)"></img> is supposed to open pfp in new window, does not. not really what I'm trying to do */
+
+ let bioButton= document.getElementById("profile").addEventListener;
+ let profImg = new Image;
+ newImage.src="assets/dialogue box ss.JPG";
+ bioButton.addEventListener("click", () => {
+    profImg.appendChild(newImage)});
+
+/*do I need to apply a math function?*/
