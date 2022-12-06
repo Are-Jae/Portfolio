@@ -44,7 +44,7 @@ None needed
 ## Credits
 Background image credited to Charles O'Rear
 
-Overall aesthetic inspired by Windos 95 with copyright infringment intended 
+Overall aesthetic inspired by Windos 95 with no copyright infringment intended 
 
 
 ## License 
