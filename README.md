@@ -18,7 +18,7 @@ I then inserted an image of a Windows Notepad dialogue box in order to write a s
 Once I had added those elements to my webpage my last task was to add an image of myself. 
 As a complete webpage it displays: three yellow file folders on the left side of the page with links to my profiles, an image of myself in the top left of the page and lastly a short bio about myself set inside of a notepad image. 
 
-I would like to apply javascript to this webpage in order for it to be easier to navigate and to provide a pleasant user experience for anyone who visits my online portfolio. 
+I would like to apply javascript to this webpage in order for it to be easier to navigate and to provide a pleasant user experience for anyone who visits my online portfolio. I'm unable to figure out how to use javascript functions to reveal my bio once the link underneath my pfp image is clicked.
 
 I have my folder icons labeled and aligned how I want. I now need to add pagination so that my portfolio links to a second page instead of redirecting to the current landing page.
 
