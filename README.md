@@ -46,6 +46,8 @@ Background image credited to Charles O'Rear
 
 Overall aesthetic inspired by Windos 95 with no copyright infringment intended 
 
+Tutors: Jacob Nordan, Alexis Gonzales 
+
 
 ## License 
 
